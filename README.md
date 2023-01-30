@@ -11,10 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuvrajangads" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="yuvrajangads" height="30" width="40" /></a> 
-
-<a href="https://linkedin.com/in/yuvrajangadsingh" target="blank"><img align="center" src=src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="yuvrajangadsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/yuvrajangadsingh" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" alt="yuvrajangadsingh" height="30" width="40" /></a>
+<a href="https://twitter.com/yuvrajangads" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="yuvrajangads" height="40" width="40" /></a> 
+<a href="https://linkedin.com/in/yuvrajangadsingh" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
+<a href="https://instagram.com/yuvrajangadsingh" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
