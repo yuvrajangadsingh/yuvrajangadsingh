@@ -4,16 +4,19 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajangadsingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajangadsingh" alt="yuvrajangadsingh" /></a> </p> -->
+<!--
+<p align="left"> <a href="https://twitter.com/yuvrajangads" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajangads?logo=twitter&style=for-the-badge" alt="yuvrajangads" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/yuvrajangads" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajangads?logo=twitter&style=for-the-badge" alt="yuvrajangads" /></a> </p>
+<p align="left">Software Engineer with expertise in developing backend systems using Spring Boot, MoleculerJS, and Node.js. Proficient in multiple programming languages including Java and JavaScript. Strong experience with database management systems and microservice architecture. Passionate about solving complex problems and delivering scalable solutions to meet business needs. Continuously seeking new technologies and methodologies to enhance skills and knowledge. Sharing my experiences and insights through writing on Medium to contribute to the tech community.</p>
 
 - 📫 How to reach me **yuvrajangad.s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuvrajangads" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="yuvrajangads" height="40" width="40" /></a> 
-<a href="https://linkedin.com/in/yuvrajangadsingh" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
-<a href="https://instagram.com/yuvrajangadsingh" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
+<a href="https://twitter.com/yuvrajangads" target="_blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="yuvrajangads" height="40" width="40" /></a> 
+<a href="https://linkedin.com/in/yuvrajangadsingh" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
+<a href="https://instagram.com/yuvrajangadsingh" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
+<a href="https://medium.com/@yuvrajangad.s/subscribe" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/null/medium-monogram--v1.png" alt="yuvrajangadsingh" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
