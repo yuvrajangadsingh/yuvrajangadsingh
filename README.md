@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/yuvrajangads" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yuvrajangads" height="30" width="40" /></a> 
 
-<a target="_blank" href="https://icons8.com/icon/13963/twitter">Twitter icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
 
 <a href="https://linkedin.com/in/yuvrajangadsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yuvrajangadsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/yuvrajangadsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yuvrajangadsingh" height="30" width="40" /></a>
