@@ -38,47 +38,47 @@
                         alt="cplusplus" width="40" height="40" />
         </a> -->
         <a href="https://www.java.com" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java"
-                        width="40" height="40" />
+                <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="java" width="40"
+                        height="40" />
         </a>
         <a href="https://laravel.com/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
+                <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"
                         alt="laravel" width="40" height="40" />
         </a>
         <a href="https://nodejs.org" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+                <img src="https://img.icons8.com/fluency/48/null/node-js.png"
                         alt="nodejs" width="40" height="40" />
         </a>
         <a href="https://graphql.org" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"
+                <img src="https://img.icons8.com/color/48/null/graphql.png"
                         alt="graphql" width="40" height="40" />
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"
+                <img src="https://img.icons8.com/color/48/null/css3.png" alt="css3"
                         width="40" height="40" />
         </a>
         <a href="https://www.w3.org/html/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"
+                <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5"
                         width="40" height="40" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+                <img src="https://img.icons8.com/color/48/null/javascript--v1.png"
                         alt="javascript" width="40" height="40" />
         </a>
         <a href="https://nextjs.org/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs"
+                <img src="https://img.icons8.com/color/48/null/nextjs.png" alt="nextjs"
                         width="40" height="40" />
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"
                         alt="typescript" width="40" height="40" />
         </a>
         <a href="https://www.mongodb.com/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
+                <img src="https://img.icons8.com/color/48/null/mongodb.png"
                         alt="mongodb" width="40" height="40" />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+                <img src="https://img.icons8.com/color/48/null/mysql-logo.png"
                         alt="mysql" width="40" height="40" />
         </a>
         <!-- <a href="https://www.photoshop.com/en" target="_blank">
@@ -88,31 +88,31 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     </a> -->
         <a href="https://git-scm.com/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git"
+                <img src="https://img.icons8.com/color/48/null/git.png" alt="git"
                         width="40" height="40" />
         </a>
         <a href="https://postman.com" target="_blank">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+                <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40"
                         height="40" />
         </a>
         <a href="https://www.canva.com/en_in/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"
+                <img src="https://img.icons8.com/fluency/48/null/canva.png" alt="canva"
                         width="40" height="40" />
         </a>
         <a href="https://kubernetes.io/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"
+                <img src="https://img.icons8.com/color/48/null/kubernetes.png"
                         alt="kubernetes" width="40" height="40" />
         </a>
-        <a href="https://kubernetes.io/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-                        alt="kubernetes" width="40" height="40" />
+        <a href="https://docker.com/" target="_blank">
+                <img src="https://img.icons8.com/fluency/48/null/docker.png"
+                        alt="docker" width="40" height="40" />
         </a>
         <a href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"
+                <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="vscode"
                         width="40" height="40" />
         </a>
         <a href="https://www.linux.org/" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"
+                <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="linux"
                         width="40" height="40" />
         </a>
         <!-- <a href="https://vuejs.org/" target="_blank">
