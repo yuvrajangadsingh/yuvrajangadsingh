@@ -29,14 +29,6 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-        <!-- <a href="https://www.cprogramming.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                        width="40" height="40" />
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" />
-        </a> -->
         <a href="https://www.java.com" target="_blank">
                 <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="java" width="40"
                         height="40" />
@@ -52,14 +44,6 @@
         <a href="https://graphql.org" target="_blank">
                 <img src="https://img.icons8.com/color/48/null/graphql.png"
                         alt="graphql" width="40" height="40" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-                <img src="https://img.icons8.com/color/48/null/css3.png" alt="css3"
-                        width="40" height="40" />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank">
-                <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5"
-                        width="40" height="40" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
                 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"
@@ -81,12 +65,6 @@
                 <img src="https://img.icons8.com/color/48/null/mysql-logo.png"
                         alt="mysql" width="40" height="40" />
         </a>
-        <!-- <a href="https://www.photoshop.com/en" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    </a> -->
-        <!-- <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a> -->
         <a href="https://git-scm.com/" target="_blank">
                 <img src="https://img.icons8.com/color/48/null/git.png" alt="git"
                         width="40" height="40" />
@@ -106,24 +84,12 @@
         <a href="https://docker.com/" target="_blank">
                 <img src="https://img.icons8.com/fluency/48/null/docker.png"
                         alt="docker" width="40" height="40" />
-        </a>
-        <a href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="vscode"
-                        width="40" height="40" />
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-                <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="linux"
-                        width="40" height="40" />
-        </a>
-        <!-- <a href="https://vuejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a> -->   
+        </a>   
 </p>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=PROFILE+VISITS&style=for-the-badge&color=blue)     
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajangadsingh&show_icons=true&locale=en&layout=compact" alt="yuvrajangadsingh" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajangadsingh&show_icons=true&locale=en" alt="yuvrajangadsingh" /></p>
- -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajangadsingh&" alt="yuvrajangadsingh" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajangadsingh&show_icons=true&locale=en&layout=compact" alt="yuvrajangadsingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajangadsingh&show_icons=true&locale=en" alt="yuvrajangadsingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajangadsingh&" alt="yuvrajangadsingh" /></p> 
 <!-- YUVRAJ ANGAD SINGH -->
