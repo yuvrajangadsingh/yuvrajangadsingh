@@ -89,7 +89,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=PROFILE+VISITS&style=for-the-badge&color=blue)     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajangadsingh&show_icons=true&locale=en&layout=compact" alt="yuvrajangadsingh" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajangadsingh&show_icons=true&locale=en&layout=compact" alt="yuvrajangadsingh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajangadsingh&show_icons=true&locale=en" alt="yuvrajangadsingh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajangadsingh&" alt="yuvrajangadsingh" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajangadsingh&" alt="yuvrajangadsingh" /></p> -->
 <!-- YUVRAJ ANGAD SINGH -->
