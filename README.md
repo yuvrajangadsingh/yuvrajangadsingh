@@ -33,7 +33,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <b>Email:</b> <a href="mailto:yuvrajangad.s@gmail.com">yuvrajangad.s@gmail.com</a><br/>
+  <b>Email:</b> <a href="mailto:mail@yuvrajangadsingh.me">mail@yuvrajangadsingh.me</a><br/>
   <b>Website:</b> <a href="https://www.yuvrajangadsingh.me/" target="_blank">yuvrajangadsingh.me</a>
 </p>
 
