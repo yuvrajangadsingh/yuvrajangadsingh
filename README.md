@@ -99,10 +99,10 @@
     <img src="https://img.icons8.com/fluency/48/null/docker.png" alt="docker" width="40" height="40" />
   </a>
 </p>
-
+<!--
 <br>
+-->
 <p align="left">
-
 ![](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=PROFILE+VISITS&style=for-the-badge&color=blue)
 </p>
 <!--
