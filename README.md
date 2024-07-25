@@ -100,10 +100,11 @@
 </p>
 
 <br>
+<p align="left">
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yuvrajangadsingh" target="_blank">Follow on LinkedIn</a>
 
 ![](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=PROFILE+VISITS&style=for-the-badge&color=blue)
-
+</p>
 <!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajangadsingh&show_icons=true&locale=en&layout=compact" alt="yuvrajangadsingh" />
