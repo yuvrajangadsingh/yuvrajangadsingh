@@ -34,8 +34,7 @@
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
   <b>Email:</b> <a href="mailto:mail@yuvrajangadsingh.me">mail@yuvrajangadsingh.me</a><br/>
-  <b>Website:</b> <a href="https://yuvrajangadsingh.me/" target="_blank">yuvrajangadsingh</a><br/><br/>
-  <b><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yuvrajangadsingh" target="_blank">Follow on LinkedIn</a></b>
+  <b>Website:</b> <a href="https://yuvrajangadsingh.me/" target="_blank">yuvrajangadsingh</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
