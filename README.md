@@ -6,9 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=baskerville&weight=900&size=25&pause=1000&color=F5F7EC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj+Angad+Singh" alt="Typing SVG">
   </a>
 </div>
-<!-- markdownlint-enable MD033 -->
 
-Software Engineer with expertise in developing backend systems using Spring Boot, MoleculerJS, and Node.js. Proficient in multiple programming languages including Java and JavaScript. Strong experience with database management systems and microservice architecture. Passionate about solving complex problems and delivering scalable solutions to meet business needs. Continuously seeking new technologies and methodologies to enhance skills and knowledge. Sharing my experiences and insights through writing on Medium to contribute to the tech community.
+<div style="font-size: 16px;">
+  Backend systems expert with a strong command of Spring Boot, MoleculerJS, and Node.js, along with proficiency in Java and JavaScript. My focus is on solving complex problems and delivering scalable solutions that drive real business impact. With a deep understanding of database management and microservices, I consistently push boundaries to stay ahead in the tech landscape. I also share my knowledge on Medium, helping others in the tech community grow and innovate.
+</div>
+
+<!-- markdownlint-enable MD033 -->
 
 ## Connect with me
 
