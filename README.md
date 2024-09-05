@@ -51,4 +51,4 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=VISITORS&color=blue&style=for-the-badge)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
