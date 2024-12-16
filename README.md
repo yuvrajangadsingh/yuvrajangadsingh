@@ -41,13 +41,13 @@
 [![Docker](https://img.icons8.com/fluency/48/null/docker.png)](https://docker.com/)
 [![VSCode](https://img.icons8.com/color/48/null/visual-studio-code-2019.png)](https://code.visualstudio.com/)
 [![Linux](https://img.icons8.com/color/48/null/linux--v1.png)](https://www.linux.org/)
-[![GenAI](https://img.icons8.com/color/48/null/artificial-intelligence.png)](https://cloud.google.com/ai/generative-ai)
 [![GCP](https://img.icons8.com/color/48/null/google-cloud.png)](https://cloud.google.com/)
 
 ### Learning
 
 [![Python](https://img.icons8.com/color/48/null/python.png)](https://www.python.org/)
 [![Flask Dark](https://img.icons8.com/ios-filled/48/null/flask.png)](https://flask.palletsprojects.com/)
+[![GenAI](https://img.icons8.com/color/48/null/artificial-intelligence.png)](https://cloud.google.com/ai/generative-ai)
 
 ![Visitors](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=VISITORS&color=blue&style=for-the-badge)
 
