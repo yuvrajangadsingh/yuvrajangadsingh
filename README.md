@@ -49,6 +49,7 @@
 [![Flask Dark](https://img.icons8.com/ios-filled/48/null/flask.png)](https://flask.palletsprojects.com/)
 [![GenAI](https://img.icons8.com/color/48/null/artificial-intelligence.png)](https://cloud.google.com/ai/generative-ai)
 
-![Visitors](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=VISITORS&color=blue&style=for-the-badge)
+<!--- ![Visitors](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=VISITORS&color=blue&style=for-the-badge) -->
+
 
 <!--- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
