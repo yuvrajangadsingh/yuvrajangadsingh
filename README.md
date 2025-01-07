@@ -20,6 +20,7 @@
 [![Instagram](https://img.icons8.com/3d-fluency/48/null/instagram-new.png)](https://instagram.com/yuvrajangadsingh)
 [![Medium](https://img.icons8.com/?size=48&id=110611&format=png&color=ffffff)](https://medium.com/@yuvrajangad.s/subscribe)
 [![Email](https://img.icons8.com/?size=48&id=Ww1lcGqgduif&format=png&color=ffffff)](mailto:contact@yuvrajangadsingh.com)
+[![PeerList](https://img.icons8.com/?size=48&id=111041&format=png&color=ffffff)](https://peerlist.io/yuvrajangads)
 
 ### Languages and Tools
 
@@ -50,6 +51,5 @@
 [![GenAI](https://img.icons8.com/color/48/null/artificial-intelligence.png)](https://cloud.google.com/ai/generative-ai)
 
 <!--- ![Visitors](https://komarev.com/ghpvc/?username=yuvrajangadsingh&label=VISITORS&color=blue&style=for-the-badge) -->
-
 
 <!--- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
