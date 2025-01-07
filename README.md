@@ -15,7 +15,7 @@
 
 ## Connect with me
 
-[![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/yuvrajangads)
+[![Twitter]([https://img.icons8.com/color/48/null/twitter--v1.png](https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000))](https://twitter.com/yuvrajangads)
 [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin-circled.png)](https://linkedin.com/in/yuvrajangadsingh)
 [![Instagram](https://img.icons8.com/3d-fluency/48/null/instagram-new.png)](https://instagram.com/yuvrajangadsingh)
 [![Medium](https://img.icons8.com/ios-filled/48/null/medium-monogram--v1.png)](https://medium.com/@yuvrajangad.s/subscribe)
