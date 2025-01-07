@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin-circled.png)](https://linkedin.com/in/yuvrajangadsingh)
 [![Instagram](https://img.icons8.com/3d-fluency/48/null/instagram-new.png)](https://instagram.com/yuvrajangadsingh)
 [![Medium](https://img.icons8.com/ios-filled/48/null/medium-monogram--v1.png)](https://medium.com/@yuvrajangad.s/subscribe)
-[![Email](https://img.icons8.com/ios-filled/48/null/email.png)](mailto:contact@yuvrajangadsingh.com)
+[![Email](https://img.icons8.com/?size=48&id=Ww1lcGqgduif&format=png&color=ffffff)](mailto:contact@yuvrajangadsingh.com)
 
 ### Languages and Tools
 
