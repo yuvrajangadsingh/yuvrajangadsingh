@@ -15,12 +15,12 @@
 
 ## Connect with Me
 
-[![Twitter](https://img.icons8.com/?size=48&id=fJp7hepMryiw&format=png&color=ffffff)](https://twitter.com/yuvrajangads)
 [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin-circled.png)](https://linkedin.com/in/yuvrajangadsingh)
-[![Instagram](https://img.icons8.com/3d-fluency/48/null/instagram-new.png)](https://instagram.com/yuvrajangadsingh)
-[![Medium](https://img.icons8.com/?size=48&id=110611&format=png&color=ffffff)](https://medium.com/@yuvrajangad.s/subscribe)
 [![Email](https://img.icons8.com/?size=48&id=Ww1lcGqgduif&format=png&color=ffffff)](mailto:contact@yuvrajangadsingh.com)
+[![Medium](https://img.icons8.com/?size=48&id=110611&format=png&color=ffffff)](https://medium.com/@yuvrajangad.s/subscribe)
 [![PeerList](https://img.icons8.com/?size=48&id=111041&format=png&color=ffffff)](https://peerlist.io/yuvrajangads)
+[![Twitter](https://img.icons8.com/?size=48&id=fJp7hepMryiw&format=png&color=ffffff)](https://twitter.com/yuvrajangads)
+[![Instagram](https://img.icons8.com/3d-fluency/48/null/instagram-new.png)](https://instagram.com/yuvrajangadsingh)
 
 ### Languages and Tools
 
