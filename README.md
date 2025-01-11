@@ -6,7 +6,7 @@
 </div>
 
 <div style="font-size: 16px;">
-  AI Engineer at AntEngage, building intelligent systems using Python and Spring Boot. Specializing in GenAI applications and scalable backend architectures. Passionate about combining AI capabilities with robust enterprise solutions and sharing knowledge through technical writing.
+  AI Engineer at AntEngage, building intelligent systems using Python and Spring Boot. Passionate about combining AI capabilities with robust enterprise solutions and sharing insights through technical writing. Currently working on conversational AI solutions like <a href="https://antengage.com/raahi">Raahi</a>.
 </div>
 
 ## 🚀 Current Focus
