@@ -23,7 +23,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@yuvrajangadsingh.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:hi@yuvrajangadsingh.com)
 [![Twitter](https://img.icons8.com/?size=48&id=fJp7hepMryiw&format=png&color=ffffff)](https://twitter.com/yuvrajangads)
 
 ---
