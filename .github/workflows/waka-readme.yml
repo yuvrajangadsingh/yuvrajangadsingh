@@ -21,5 +21,3 @@ jobs:
           SHOW_TITLE: false
           SHOW_TOTAL: true
           SHOW_TIME: true
-          SHOW_PROFILE: true
-          SHORT_INFO: true
