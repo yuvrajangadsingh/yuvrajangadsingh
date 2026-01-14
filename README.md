@@ -20,6 +20,11 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,docker,gcp,postgres)](https://skillicons.dev)
 
+## ⏱️ This Week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
