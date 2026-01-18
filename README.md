@@ -6,7 +6,7 @@
 </div>
 
 <div style="font-size: 16px;">
-  Building AI systems for health decisions. Python, FastAPI, and a lot of LLM wrangling. Previously shipped enterprise AI at AntEngage. Contributor to <a href="https://github.com/openai/codex"><b>OpenAI Codex</b></a>.
+  Building AI systems for health decisions. Python, FastAPI, and a lot of LLM wrangling. Previously shipped enterprise AI at AntEngage.
 </div>
 
 ## 🚀 Current Focus
