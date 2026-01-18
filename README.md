@@ -20,6 +20,16 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,docker,gcp,postgres)](https://skillicons.dev)
 
+## 🌟 Open Source Contributions
+
+<a href="https://github.com/openai/codex">
+  <img src="https://img.shields.io/badge/OpenAI-Codex%20CLI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex">
+</a>
+
+Contributor to **[OpenAI Codex](https://github.com/openai/codex)** - OpenAI's official AI coding assistant CLI
+
+- [fix: send non-null content on elicitation Accept](https://github.com/openai/codex/pull/9196) ✅ Merged
+
 ## ⏱️ This Week
 
 <!--START_SECTION:waka-->
