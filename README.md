@@ -16,10 +16,6 @@
 - Memory systems & context retrieval
 - Real-time AI streaming pipelines
 
-## 🛠️ Tech Stack
-
-[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,docker,gcp,postgres)](https://skillicons.dev)
-
 ## ⏱️ This Week
 
 <!--START_SECTION:waka-->
