@@ -6,7 +6,7 @@
 </div>
 
 <div style="font-size: 16px;">
-  Building AI systems for health decisions. Python, FastAPI, and a lot of LLM wrangling. Previously shipped enterprise AI at AntEngage.
+  Building AI systems for health decisions. Python, FastAPI, and a lot of LLM wrangling. Previously shipped enterprise AI at AntEngage. Sometimes I find bugs in tools I use and send fixes upstream.
 </div>
 
 ## 🚀 Current Focus
@@ -14,7 +14,7 @@
 - Multi-model orchestration & intelligent fallbacks
 - Document intelligence at scale
 - Memory systems & context retrieval
-- Real-time AI streaming pipelines
+- Sending fixes upstream — [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/16967), [codex](https://github.com/openai/codex/pull/9279), [cal.com](https://github.com/calcom/cal.com/pull/22434)
 
 ## ⏱️ This Week
 
