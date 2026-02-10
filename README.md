@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 2 mins
+Total Time: 17 hrs 17 mins
 
-Python           3 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-Markdown         3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Bash             1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Scala            1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-TypeScript       1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Python           4 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+Markdown         4 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+TypeScript       2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Scala            1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Bash             1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 ```
 
 <!--END_SECTION:waka-->
