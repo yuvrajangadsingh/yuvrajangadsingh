@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 14 mins
+Total Time: 6 hrs 46 mins
 
-TypeScript   2 hrs 9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-Gosu         1 hr 52 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-Python       1 hr 35 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Markdown     34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-YAML         24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Gosu         1 hr 53 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
+Python       1 hr 52 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Markdown     54 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+TypeScript   33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Other        32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
