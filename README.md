@@ -14,7 +14,7 @@
 - Multi-model orchestration & intelligent fallbacks
 - Document intelligence at scale
 - Memory systems & context retrieval
-- Sending fixes upstream — [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/16967), [codex](https://github.com/openai/codex/pull/9279), [cal.com](https://github.com/calcom/cal.com/pull/22434)
+- Sending fixes upstream — [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/17981), [codex](https://github.com/openai/codex/pull/9348), [cal.com](https://github.com/calcom/cal.com/pull/22434)
 
 ## ⏱️ This Week
 
