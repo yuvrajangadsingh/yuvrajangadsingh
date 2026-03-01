@@ -1,29 +1,15 @@
-<!-- markdownlint-disable MD033 -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=baskerville&weight=900&size=25&pause=1000&color=F5F7EC&width=435&center=true&lines=Building+AI+for+health;One+prompt+at+a+time;Shipping+what+matters" alt="Typing SVG">
-  </a>
-</div>
+Building AI systems at [August](https://august.ai) (health AI, 6M users). Python, TypeScript, FastAPI, and a lot of LLM wrangling.
 
-<div style="font-size: 16px;">
-  Building AI systems for health decisions. Python, FastAPI, and a lot of LLM wrangling. Previously shipped enterprise AI at AntEngage. Sometimes I find bugs in tools I use and send fixes upstream.
-</div>
+### Projects
 
-## 🚀 Current Focus
+- **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)** — CLI that catches AI-generated code smells in JS/TS. `npx @yuvrajangadsingh/vibecheck .` and you're done. Also ships as a [GitHub Action](https://github.com/yuvrajangadsingh/vibecheck/blob/main/action.yml).
+- **[greens](https://github.com/yuvrajangadsingh/greens)** — Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
 
-- Multi-model orchestration & intelligent fallbacks
-- Document intelligence at scale
-- Memory systems & context retrieval
-- Sending fixes upstream — [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/17981), [codex](https://github.com/openai/codex/pull/9348), [cal.com](https://github.com/calcom/cal.com/pull/22434)
+### OSS
 
-## 🤝 Connect With Me
+PRs merged into [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/17981), [codex](https://github.com/openai/codex/pull/9348), [cal.com](https://github.com/calcom/cal.com/pull/22434)
+
+### Links
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hi@yuvrajangadsingh.com)
-[![Twitter](https://img.icons8.com/?size=48&id=fJp7hepMryiw&format=png&color=ffffff)](https://twitter.com/yuvrajangads)
-
----
-
-<div align="center">
-  <sub>Bangalore • Building things that matter</sub>
-</div>
