@@ -16,22 +16,6 @@
 - Memory systems & context retrieval
 - Sending fixes upstream — [gemini-cli](https://github.com/google-gemini/gemini-cli/pull/17981), [codex](https://github.com/openai/codex/pull/9348), [cal.com](https://github.com/calcom/cal.com/pull/22434)
 
-## ⏱️ This Week
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 10 hrs 40 mins
-
-Python         3 hrs 11 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 %
-Markdown       2 hrs 39 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
-TypeScript     2 hrs 2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
-JavaScript     1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Other          53 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
