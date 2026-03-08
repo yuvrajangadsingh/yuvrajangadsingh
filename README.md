@@ -1,4 +1,4 @@
-Building AI systems at [August](https://august.ai) (health AI, 6M users). Python, TypeScript, FastAPI, and a lot of LLM wrangling.
+Building AI systems at [August](https://www.meetaugust.ai) (health AI, 6M users). Python, TypeScript, FastAPI, and a lot of LLM wrangling.
 
 ### Projects
 
