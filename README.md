@@ -8,7 +8,7 @@ Building AI systems at [August](https://www.meetaugust.ai) (health AI, 6M users)
 
 ### OSS
 
-PRs merged into [gh CLI](https://github.com/cli/cli) (4), [gemini-cli](https://github.com/google-gemini/gemini-cli) (3), [codex](https://github.com/openai/codex) (3), [cal.com](https://github.com/calcom/cal.com) (2)
+PRs merged into [gh CLI](https://github.com/cli/cli) (4), [gemini-cli](https://github.com/google-gemini/gemini-cli) (3), [codex](https://github.com/openai/codex) (3), [cal.com](https://github.com/calcom/cal.com) (2), [adk-python](https://github.com/google/adk-python) (1)
 
 ### Links
 
