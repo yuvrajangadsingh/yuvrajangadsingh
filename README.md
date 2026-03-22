@@ -1,8 +1,9 @@
-Building AI systems at [August](https://www.meetaugust.ai) (health AI, 6M users). Python, TypeScript, FastAPI, and a lot of LLM wrangling.
+Building AI systems at [August](https://www.meetaugust.ai) (health AI, 7M users). Python, TypeScript, FastAPI, and a lot of LLM wrangling.
 
 ### Projects
 
 - **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)** — CLI that catches AI-generated code smells in JS/TS and Python. `npx @yuvrajangadsingh/vibecheck .` and you're done. Also ships as a [GitHub Action](https://github.com/marketplace/actions/vibecheck-ai-slop) and [standalone binaries](https://github.com/yuvrajangadsingh/vibecheck/releases).
+- **[vemb](https://github.com/yuvrajangadsingh/vemb)** — httpie for embeddings. Embed text, images, audio, video, and PDFs from the command line. `pipx install vemb`
 - **[greens](https://github.com/yuvrajangadsingh/greens)** — Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
 
 ### OSS
