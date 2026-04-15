@@ -9,11 +9,10 @@ Merged PRs into [GitHub CLI](https://github.com/cli/cli), [Codex](https://github
 - **[greens](https://github.com/yuvrajangadsingh/greens)** — Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
 - **[vemb](https://github.com/yuvrajangadsingh/vemb)** — Embed text, images, audio, video, and PDFs from the command line. `pipx install vemb`
 
-### Recent (Apr 2026)
+### Recent
 
-- [I Scanned 31 AI-Built Repos](https://dev.to/yuvrajangadsingh/i-scanned-31-ai-built-repos-each-tool-leaves-behind-a-different-mess-4k3) — vibecheck teardown of Cursor, Lovable, and Bolt repos
-- [Merged safer DOM fix](https://github.com/RocketChat/Opensource-Contribution-Leaderboard/pull/137) in a Rocket.Chat org repo, unsafe `innerHTML` surfaced by vibecheck
-- [Merged Expensify back-navigation fix](https://github.com/Expensify/App/pull/87128)
+- Fixed broken back-navigation animation in [Expensify](https://github.com/Expensify/App/pull/87128)
+- Replaced unsafe innerHTML calls in [Rocket.Chat leaderboard](https://github.com/RocketChat/Opensource-Contribution-Leaderboard/pull/137)
 
 ### Links
 
