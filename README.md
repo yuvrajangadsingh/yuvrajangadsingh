@@ -13,7 +13,7 @@ Merged PRs into [GitHub CLI](https://github.com/cli/cli), [Codex](https://github
 
 - [I Scanned 31 AI-Built Repos](https://dev.to/yuvrajangadsingh/i-scanned-31-ai-built-repos-each-tool-leaves-behind-a-different-mess-4k3) — vibecheck teardown of Cursor, Lovable, and Bolt repos
 - [Merged safer DOM fix](https://github.com/RocketChat/Opensource-Contribution-Leaderboard/pull/137) in a Rocket.Chat org repo, unsafe `innerHTML` surfaced by vibecheck
-- [Merged Expensify back-navigation fix](https://github.com/Expensify/App/pull/87128) for a [$250] issue
+- [Merged Expensify back-navigation fix](https://github.com/Expensify/App/pull/87128) in the React Native app
 
 ### Links
 
