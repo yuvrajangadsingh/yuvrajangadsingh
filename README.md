@@ -4,7 +4,7 @@ Merged PRs into [GitHub CLI](https://github.com/cli/cli), [Codex](https://github
 
 ### Projects
 
-- **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)** — Catch AI-generated code smells in JS/TS and Python. 34 rules. Ships as a [CLI](https://www.npmjs.com/package/@yuvrajangadsingh/vibecheck), [GitHub Action](https://github.com/marketplace/actions/vibecheck-ai-slop), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=yuvrajangadsingh.vibecheck-linter), and [MCP server](https://github.com/yuvrajangadsingh/vibecheck#mcp-server). `npx @yuvrajangadsingh/vibecheck .`
+- **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)** — Catch AI-generated code smells in JS/TS and Python. 35 rules. Ships as a [CLI](https://www.npmjs.com/package/@yuvrajangadsingh/vibecheck), [GitHub Action](https://github.com/marketplace/actions/vibecheck-ai-slop), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=yuvrajangadsingh.vibecheck-linter), and [MCP server](https://github.com/yuvrajangadsingh/vibecheck#mcp-server). `npx @yuvrajangadsingh/vibecheck .`
 - **[brandmd](https://github.com/yuvrajangadsingh/brandmd)** — Turn any website's design system into a DESIGN.md. `npx brandmd https://stripe.com`
 - **[greens](https://github.com/yuvrajangadsingh/greens)** — Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
 - **[vemb](https://github.com/yuvrajangadsingh/vemb)** — Embed text, images, audio, video, and PDFs from the command line. `pipx install vemb`
