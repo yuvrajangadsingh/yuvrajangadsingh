@@ -1,5 +1,7 @@
 AI engineer at [August AI](https://www.meetaugust.ai), building health AI used by 7M+ people. I also build open-source CLI tools for auditing AI-written code and working faster from the terminal.
 
+→ Portfolio: **[yuvrajangadsingh.com](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme&utm_campaign=brandmd_v08)**
+
 Merged PRs into [GitHub CLI](https://github.com/cli/cli), [Codex](https://github.com/openai/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cal.com](https://github.com/calcom/cal.com), [Expensify](https://github.com/Expensify/App), [Google ADK](https://github.com/google/adk-python), [Rocket.Chat](https://github.com/RocketChat/Opensource-Contribution-Leaderboard), and others.
 
 ### Projects
@@ -16,6 +18,7 @@ Merged PRs into [GitHub CLI](https://github.com/cli/cli), [Codex](https://github
 
 ### Links
 
+[![Portfolio](https://skillicons.dev/icons?i=vscode)](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme_links&utm_campaign=brandmd_v08)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/yuvrajangadsingh)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hi@yuvrajangadsingh.com)
