@@ -1,17 +1,17 @@
-I build open-source CLI tools for AI-assisted development — auditing AI-written code, extracting design systems, and moving faster from the terminal. Day job: AI engineer at [August AI](https://www.meetaugust.ai), health AI used by 7M+ people.
+I build open-source CLI tools that audit AI-written code, extract design systems, and help me move faster from the terminal. Day job: AI engineer at [August AI](https://www.meetaugust.ai), health AI used by 7M+ people.
 
 **1k+ monthly npm downloads across my CLIs** · merged patches in 6 OSS projects: [GitHub CLI](https://github.com/cli/cli), [Codex](https://github.com/openai/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cal.com](https://github.com/calcom/cal.com), [Expensify](https://github.com/Expensify/App), [Rocket.Chat](https://github.com/RocketChat/Opensource-Contribution-Leaderboard).
 
-→ Latest ship: **[brandmd](https://github.com/yuvrajangadsingh/brandmd)** — one command to give Claude Code, Cursor, and Stitch real brand context from any URL
+→ Latest ship: **[brandmd](https://github.com/yuvrajangadsingh/brandmd)**, one command to give Claude Code, Cursor, and Stitch real brand context from any URL
 
 → Portfolio: **[yuvrajangadsingh.com](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme&utm_campaign=brandmd)**
 
 ### Projects
 
-- **[brandmd](https://github.com/yuvrajangadsingh/brandmd)** — Stop AI coding agents from guessing your UI. Extract any website into a Stitch-ready `DESIGN.md` for Claude Code/Cursor. `npx brandmd https://stripe.com`
-- **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)** — Catch AI-generated code smells in JS/TS and Python. 35 rules. Ships as a [CLI](https://www.npmjs.com/package/@yuvrajangadsingh/vibecheck), [GitHub Action](https://github.com/marketplace/actions/vibecheck-ai-slop), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=yuvrajangadsingh.vibecheck-linter), and [MCP server](https://github.com/yuvrajangadsingh/vibecheck#mcp-server). `npx @yuvrajangadsingh/vibecheck .`
-- **[greens](https://github.com/yuvrajangadsingh/greens)** — Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
-- **[vemb](https://github.com/yuvrajangadsingh/vemb)** — Embed text, images, audio, video, and PDFs from the command line. `pipx install vemb`
+- **[brandmd](https://github.com/yuvrajangadsingh/brandmd)**: Stop AI coding agents from guessing your UI. Extract any website into a Stitch-ready `DESIGN.md` for Claude Code/Cursor. `npx brandmd https://stripe.com`
+- **[vibecheck](https://github.com/yuvrajangadsingh/vibecheck)**: Catch AI-generated code smells in JS/TS and Python. 35 rules. Ships as a [CLI](https://www.npmjs.com/package/@yuvrajangadsingh/vibecheck), [GitHub Action](https://github.com/marketplace/actions/vibecheck-ai-slop), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=yuvrajangadsingh.vibecheck-linter), and [MCP server](https://github.com/yuvrajangadsingh/vibecheck#mcp-server). `npx @yuvrajangadsingh/vibecheck .`
+- **[greens](https://github.com/yuvrajangadsingh/greens)**: Mirror private work contributions to your GitHub graph without exposing code. `brew install yuvrajangadsingh/greens/greens`
+- **[vemb](https://github.com/yuvrajangadsingh/vemb)**: Embed text, images, audio, video, and PDFs from the command line. `pipx install vemb`
 
 ### Recent OSS contributions
 
