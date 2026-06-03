@@ -1,6 +1,6 @@
 I build open-source CLI tools that audit AI-written code, extract design systems, and help me move faster from the terminal. Day job: AI engineer at [August AI](https://www.meetaugust.ai), health AI used by 7M+ people.
 
-**1k+ monthly npm downloads across my CLIs** · merged patches in 6 OSS projects: [GitHub CLI](https://github.com/cli/cli), [Codex](https://github.com/openai/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cal.com](https://github.com/calcom/cal.com), [Expensify](https://github.com/Expensify/App), [Rocket.Chat](https://github.com/RocketChat/Opensource-Contribution-Leaderboard).
+**1k+ monthly npm downloads across my CLIs** · merged patches in 7 OSS projects: [GitHub CLI](https://github.com/cli/cli), [Codex](https://github.com/openai/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cal.com](https://github.com/calcom/cal.com), [Expensify](https://github.com/Expensify/App), [Rocket.Chat](https://github.com/RocketChat/Opensource-Contribution-Leaderboard), and Google Labs' [stitch-skills](https://github.com/google-labs-code/stitch-skills).
 
 → Latest ship: **[brandmd](https://github.com/yuvrajangadsingh/brandmd)**, one command to give Claude Code, Cursor, and Stitch real brand context from any URL
 
@@ -15,6 +15,7 @@ I build open-source CLI tools that audit AI-written code, extract design systems
 
 ### Recent OSS contributions
 
+- Added a React Native skill to Google Labs' [stitch-skills](https://github.com/google-labs-code/stitch-skills/pull/42)
 - Added `--squash-merge-commit-message` to `gh repo edit` in [GitHub CLI](https://github.com/cli/cli/pull/12846)
 - Fixed orphaned processes pinning CPU to 100% on terminal close in [Gemini CLI](https://github.com/google-gemini/gemini-cli/pull/16965)
 - Fixed broken back-navigation animation in [Expensify](https://github.com/Expensify/App/pull/87128)
