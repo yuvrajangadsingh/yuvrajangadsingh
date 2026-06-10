@@ -24,6 +24,8 @@ I build open-source CLI tools that audit AI-written code, extract design systems
 
 Dev-tool collabs, OSS contributions, and strong AI-eng roles. DMs open. → [hi@yuvrajangadsingh.com](mailto:hi@yuvrajangadsingh.com)
 
+New CLI experiments ship here first. Follow to catch the next one.
+
 ### Links
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yuvrajangadsingh)
