@@ -37,8 +37,11 @@ import json
 import sys
 
 LINE_H = 19
-PAD_X = 18
-PAD_Y = 16
+PAD_L = 0         # flush with the readme's text column; the image floats left
+                  # of the copy, so any left padding reads as a misalignment
+PAD_R = 26        # gutter between the chart and the text wrapping beside it
+PAD_T = 0         # the title's baseline then lands level with the first line
+                  # of the paragraph alongside it
 LABEL_W = 108     # px reserved for the repo name column
 GAP = 8
 BAR_W = 236       # px, full-scale bar
@@ -64,10 +67,10 @@ def main(src, out):
     rows.sort(key=lambda r: r["density"])
     peak = max(r["density"] for r in rows)
 
-    width = PAD_X * 2 + LABEL_W + GAP + BAR_W + VALUE_W
-    row_y = lambda i: PAD_Y + 34 + i * LINE_H
-    height = row_y(len(rows) - 1) + LINE_H + 14
-    bar_x = PAD_X + LABEL_W + GAP
+    width = PAD_L + LABEL_W + GAP + BAR_W + VALUE_W + PAD_R
+    row_y = lambda i: PAD_T + 32 + i * LINE_H
+    height = row_y(len(rows) - 1) + 6
+    bar_x = PAD_L + LABEL_W + GAP
 
     # Keyframe stops, as percentages of one cycle.
     k_drawn = DRAW / CYCLE * 100
@@ -79,11 +82,11 @@ def main(src, out):
         w = density / peak * BAR_W
         y, delay, top = row_y(i), i * STAGGER, row_y(i) - 11
         parts.append(
-            f'  <text class="nm" x="{PAD_X}" y="{y}">{name}</text>\n'
+            f'  <text class="nm" x="{PAD_L}" y="{y}">{name}</text>\n'
             f'  <rect class="tk" x="{bar_x}" y="{top}" width="{BAR_W}" height="{BAR_H}" rx="1.5"/>\n'
             f'  <rect class="br" x="{bar_x}" y="{top}" width="0" height="{BAR_H}" rx="1.5" '
             f'style="--w:{w:.1f}px;animation-delay:{delay:.2f}s"/>\n'
-            f'  <text class="vl" x="{width - PAD_X}" y="{y}" text-anchor="end">{density:.1f}</text>'
+            f'  <text class="vl" x="{width - PAD_R}" y="{y}" text-anchor="end">{density:.1f}</text>'
         )
 
     alt = (f"AI slop findings per 1,000 lines across {len(rows)} AI coding tools: "
@@ -111,7 +114,7 @@ def main(src, out):
     .tk{{fill:#eaeef2}} .br{{fill:#1a7f37}}
   }}
 </style>
-<text class="ttl" x="{PAD_X}" y="{PAD_Y + 14}">ai slop findings per 1,000 lines &#183; {len(rows)} ai coding tools</text>
+<text class="ttl" x="{PAD_L}" y="{PAD_T + 14}">ai slop findings per 1,000 lines &#183; {len(rows)} ai coding tools</text>
 {chr(10).join(parts)}
 </svg>
 """
