@@ -11,6 +11,7 @@ i build the layer after the first model call: routing and fallbacks, evals, docu
 field notes, every claim tested first: [31 ai-built repos scanned](https://dev.to/yuvrajangadsingh/i-scanned-31-ai-built-repos-each-tool-leaves-behind-a-different-mess-4k3) · [1 in 5 sites, wrong font](https://dev.to/yuvrajangadsingh/i-ran-my-own-tool-against-100-sites-1-in-5-returned-the-wrong-primary-font-2eg9)
 
 <br clear="left" />
+<br />
 
 open to dev-tool collabs → [hi@yuvrajangadsingh.com](mailto:hi@yuvrajangadsingh.com) · [portfolio](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme&utm_campaign=profile_readme) · [linkedin](https://linkedin.com/in/yuvrajangadsingh)
 
