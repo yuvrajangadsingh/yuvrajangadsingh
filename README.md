@@ -1,6 +1,6 @@
 i build the layer after the first model call: routing and fallbacks, evals, document pipelines, streaming, observability. ai engineer at [august](https://www.meetaugust.ai), health ai used by millions of people. i ship cli tools and contribute upstream.
 
-<img align="left" width="434" src="assets/slop.svg" alt="ai slop findings per 1,000 lines, 15 ai coding tools" />
+<img align="left" width="424" src="assets/slop.svg" alt="ai slop findings per 1,000 lines, 15 ai coding tools" />
 
 15 ai coding tools scanned with [vibecheck](https://github.com/yuvrajangadsingh/vibecheck) in august 2026, 8x between the cleanest and the noisiest. [the run and the generator](assets/)
 
