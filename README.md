@@ -10,6 +10,6 @@ field notes on [dev.to](https://dev.to/yuvrajangadsingh), every claim tested fir
 - [i ran my own tool against 100 sites. 1 in 5 returned the wrong primary font.](https://dev.to/yuvrajangadsingh/i-ran-my-own-tool-against-100-sites-1-in-5-returned-the-wrong-primary-font-2eg9)
 - [your github profile is lying about you](https://dev.to/yuvrajangadsingh/your-github-profile-is-lying-about-you-34a9)
 
-open to dev-tool collabs and strong ai-eng roles. dms open → [hi@yuvrajangadsingh.com](mailto:hi@yuvrajangadsingh.com) · [portfolio](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme&utm_campaign=profile_readme) · [linkedin](https://linkedin.com/in/yuvrajangadsingh)
+open to dev-tool collabs → [hi@yuvrajangadsingh.com](mailto:hi@yuvrajangadsingh.com) · [portfolio](https://yuvrajangadsingh.com?utm_source=github&utm_medium=profile_readme&utm_campaign=profile_readme) · [linkedin](https://linkedin.com/in/yuvrajangadsingh)
 
 *numbers verified aug 27, 2026. the tools live in the pins below.*
