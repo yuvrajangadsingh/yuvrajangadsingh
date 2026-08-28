@@ -39,7 +39,10 @@ import sys
 LINE_H = 20
 PAD_L = 0         # flush with the readme's text column; the image floats left
                   # of the copy, so any left padding reads as a misalignment
-PAD_R = 26        # gutter between the chart and the text wrapping beside it
+PAD_R = 8         # github already puts 20px of padding-right on a floated image,
+                  # so the svg only adds the little that is still missing. any
+                  # more and the chart visibly stops short of the copy when it
+                  # goes full width on a phone.
 PAD_T = 0         # the title's baseline then lands level with the first line
                   # of the paragraph alongside it
 LABEL_W = 108     # px reserved for the repo name column
@@ -47,6 +50,13 @@ GAP = 8
 BAR_W = 236       # px, full-scale bar
 BAR_H = 11
 VALUE_W = 46      # px reserved for the number on the right
+
+PAD_B = 18        # breathing room under the last row. a float adds no bottom
+                  # margin, so on a phone, where the chart goes full width and
+                  # the copy drops beneath it, the text would otherwise start
+                  # flush against the last bar. the svg's background matches
+                  # github's page colour in both themes, so this is invisible
+                  # on desktop.
 
 DRAW = 1.5        # seconds for a bar to reach full width
 HOLD = 6.0        # seconds the finished chart sits still
@@ -69,7 +79,7 @@ def main(src, out):
 
     width = PAD_L + LABEL_W + GAP + BAR_W + VALUE_W + PAD_R
     row_y = lambda i: PAD_T + 32 + i * LINE_H
-    height = row_y(len(rows) - 1) + 6
+    height = row_y(len(rows) - 1) + PAD_B
     bar_x = PAD_L + LABEL_W + GAP
 
     # Keyframe stops, as percentages of one cycle.
