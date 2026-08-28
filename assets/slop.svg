@@ -4,75 +4,80 @@
   text{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;font-size:13px}
   .ttl{fill:#e6edf3;font-size:12.5px}
   .nm{fill:#9198a1} .vl{fill:#e6edf3} .tk{fill:#21262d} .br{fill:#3fb950}
-  .nm,.vl,.ttl{opacity:0;animation:fi .3s ease-out forwards}
-  @keyframes fi{to{opacity:1}}
+  .br{animation:draw 8s linear infinite}
+  @keyframes draw{
+    0%{width:0}
+    18.75%{width:var(--w);animation-timing-function:cubic-bezier(.16,1,.3,1)}
+    93.75%{width:var(--w)}
+    100%{width:0;animation-timing-function:cubic-bezier(.5,0,.6,1)}
+  }
+  @media (prefers-reduced-motion:reduce){
+    .br{animation:none;width:var(--w)}
+  }
   @media (prefers-color-scheme:light){
     svg{background:#ffffff} .ttl,.vl{fill:#1f2328} .nm{fill:#59636e}
     .tk{fill:#eaeef2} .br{fill:#1a7f37}
   }
-  @media (prefers-reduced-motion:reduce){
-    .nm,.vl,.ttl{animation:none;opacity:1}
-  }
 </style>
 <text class="ttl" x="18" y="30">ai slop findings per 1,000 lines &#183; 15 ai coding tools</text>
-  <text class="nm" x="18" y="50" style="animation-delay:0.00s">langchain</text>
+  <text class="nm" x="18" y="50">langchain</text>
   <rect class="tk" x="134" y="39" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="39" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="28.6" dur="0.95s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="50" text-anchor="end" style="animation-delay:0.57s">6.1</text>
-  <text class="nm" x="18" y="69" style="animation-delay:0.07s">crewAI</text>
+  <rect class="br" x="134" y="39" width="0" height="11" rx="1.5" style="--w:28.6px;animation-delay:0.00s"/>
+  <text class="vl" x="416" y="50" text-anchor="end">6.1</text>
+  <text class="nm" x="18" y="69">crewAI</text>
   <rect class="tk" x="134" y="58" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="58" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="64.7" dur="0.95s" begin="0.07s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="69" text-anchor="end" style="animation-delay:0.64s">13.8</text>
-  <text class="nm" x="18" y="88" style="animation-delay:0.15s">adk-python</text>
+  <rect class="br" x="134" y="58" width="0" height="11" rx="1.5" style="--w:64.7px;animation-delay:0.06s"/>
+  <text class="vl" x="416" y="69" text-anchor="end">13.8</text>
+  <text class="nm" x="18" y="88">adk-python</text>
   <rect class="tk" x="134" y="77" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="77" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="78.8" dur="0.95s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="88" text-anchor="end" style="animation-delay:0.72s">16.8</text>
-  <text class="nm" x="18" y="107" style="animation-delay:0.22s">dspy</text>
+  <rect class="br" x="134" y="77" width="0" height="11" rx="1.5" style="--w:78.8px;animation-delay:0.11s"/>
+  <text class="vl" x="416" y="88" text-anchor="end">16.8</text>
+  <text class="nm" x="18" y="107">dspy</text>
   <rect class="tk" x="134" y="96" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="96" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="87.3" dur="0.95s" begin="0.22s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="107" text-anchor="end" style="animation-delay:0.79s">18.6</text>
-  <text class="nm" x="18" y="126" style="animation-delay:0.30s">litellm</text>
+  <rect class="br" x="134" y="96" width="0" height="11" rx="1.5" style="--w:87.3px;animation-delay:0.17s"/>
+  <text class="vl" x="416" y="107" text-anchor="end">18.6</text>
+  <text class="nm" x="18" y="126">litellm</text>
   <rect class="tk" x="134" y="115" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="115" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="94.8" dur="0.95s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="126" text-anchor="end" style="animation-delay:0.87s">20.2</text>
-  <text class="nm" x="18" y="145" style="animation-delay:0.38s">AutoGPT</text>
+  <rect class="br" x="134" y="115" width="0" height="11" rx="1.5" style="--w:94.8px;animation-delay:0.22s"/>
+  <text class="vl" x="416" y="126" text-anchor="end">20.2</text>
+  <text class="nm" x="18" y="145">AutoGPT</text>
   <rect class="tk" x="134" y="134" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="134" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="96.2" dur="0.95s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="145" text-anchor="end" style="animation-delay:0.94s">20.5</text>
-  <text class="nm" x="18" y="164" style="animation-delay:0.45s">llama_index</text>
+  <rect class="br" x="134" y="134" width="0" height="11" rx="1.5" style="--w:96.2px;animation-delay:0.28s"/>
+  <text class="vl" x="416" y="145" text-anchor="end">20.5</text>
+  <text class="nm" x="18" y="164">llama_index</text>
   <rect class="tk" x="134" y="153" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="153" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="109.3" dur="0.95s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="164" text-anchor="end" style="animation-delay:1.02s">23.3</text>
-  <text class="nm" x="18" y="183" style="animation-delay:0.53s">codex</text>
+  <rect class="br" x="134" y="153" width="0" height="11" rx="1.5" style="--w:109.3px;animation-delay:0.33s"/>
+  <text class="vl" x="416" y="164" text-anchor="end">23.3</text>
+  <text class="nm" x="18" y="183">codex</text>
   <rect class="tk" x="134" y="172" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="172" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="127.1" dur="0.95s" begin="0.53s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="183" text-anchor="end" style="animation-delay:1.09s">27.1</text>
-  <text class="nm" x="18" y="202" style="animation-delay:0.60s">OpenHands</text>
+  <rect class="br" x="134" y="172" width="0" height="11" rx="1.5" style="--w:127.1px;animation-delay:0.39s"/>
+  <text class="vl" x="416" y="183" text-anchor="end">27.1</text>
+  <text class="nm" x="18" y="202">OpenHands</text>
   <rect class="tk" x="134" y="191" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="191" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="135.1" dur="0.95s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="202" text-anchor="end" style="animation-delay:1.17s">28.8</text>
-  <text class="nm" x="18" y="221" style="animation-delay:0.67s">cline</text>
+  <rect class="br" x="134" y="191" width="0" height="11" rx="1.5" style="--w:135.1px;animation-delay:0.44s"/>
+  <text class="vl" x="416" y="202" text-anchor="end">28.8</text>
+  <text class="nm" x="18" y="221">cline</text>
   <rect class="tk" x="134" y="210" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="210" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="174.5" dur="0.95s" begin="0.67s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="221" text-anchor="end" style="animation-delay:1.24s">37.2</text>
-  <text class="nm" x="18" y="240" style="animation-delay:0.75s">LibreChat</text>
+  <rect class="br" x="134" y="210" width="0" height="11" rx="1.5" style="--w:174.5px;animation-delay:0.49s"/>
+  <text class="vl" x="416" y="221" text-anchor="end">37.2</text>
+  <text class="nm" x="18" y="240">LibreChat</text>
   <rect class="tk" x="134" y="229" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="229" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="181.1" dur="0.95s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="240" text-anchor="end" style="animation-delay:1.32s">38.6</text>
-  <text class="nm" x="18" y="259" style="animation-delay:0.82s">gemini-cli</text>
+  <rect class="br" x="134" y="229" width="0" height="11" rx="1.5" style="--w:181.1px;animation-delay:0.55s"/>
+  <text class="vl" x="416" y="240" text-anchor="end">38.6</text>
+  <text class="nm" x="18" y="259">gemini-cli</text>
   <rect class="tk" x="134" y="248" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="248" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="184.4" dur="0.95s" begin="0.82s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="259" text-anchor="end" style="animation-delay:1.40s">39.3</text>
-  <text class="nm" x="18" y="278" style="animation-delay:0.90s">aider</text>
+  <rect class="br" x="134" y="248" width="0" height="11" rx="1.5" style="--w:184.4px;animation-delay:0.60s"/>
+  <text class="vl" x="416" y="259" text-anchor="end">39.3</text>
+  <text class="nm" x="18" y="278">aider</text>
   <rect class="tk" x="134" y="267" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="267" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="206.4" dur="0.95s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="278" text-anchor="end" style="animation-delay:1.47s">44.0</text>
-  <text class="nm" x="18" y="297" style="animation-delay:0.97s">autogen</text>
+  <rect class="br" x="134" y="267" width="0" height="11" rx="1.5" style="--w:206.4px;animation-delay:0.66s"/>
+  <text class="vl" x="416" y="278" text-anchor="end">44.0</text>
+  <text class="nm" x="18" y="297">autogen</text>
   <rect class="tk" x="134" y="286" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="286" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="206.9" dur="0.95s" begin="0.97s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="297" text-anchor="end" style="animation-delay:1.54s">44.1</text>
-  <text class="nm" x="18" y="316" style="animation-delay:1.05s">continue</text>
+  <rect class="br" x="134" y="286" width="0" height="11" rx="1.5" style="--w:206.9px;animation-delay:0.71s"/>
+  <text class="vl" x="416" y="297" text-anchor="end">44.1</text>
+  <text class="nm" x="18" y="316">continue</text>
   <rect class="tk" x="134" y="305" width="236" height="11" rx="1.5"/>
-  <rect class="br" x="134" y="305" width="0" height="11" rx="1.5"><animate attributeName="width" from="0" to="236.0" dur="0.95s" begin="1.05s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/></rect>
-  <text class="vl" x="416" y="316" text-anchor="end" style="animation-delay:1.62s">50.3</text>
+  <rect class="br" x="134" y="305" width="0" height="11" rx="1.5" style="--w:236.0px;animation-delay:0.77s"/>
+  <text class="vl" x="416" y="316" text-anchor="end">50.3</text>
 </svg>
