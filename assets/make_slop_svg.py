@@ -36,7 +36,7 @@ Notes on the constraints, because none of them are obvious:
 import json
 import sys
 
-LINE_H = 19
+LINE_H = 20
 PAD_L = 0         # flush with the readme's text column; the image floats left
                   # of the copy, so any left padding reads as a misalignment
 PAD_R = 26        # gutter between the chart and the text wrapping beside it
