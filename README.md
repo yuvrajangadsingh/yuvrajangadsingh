@@ -1,4 +1,4 @@
-i build the layer after the first model call: routing and fallbacks, evals, document pipelines, streaming, observability. ai engineer at [august](https://www.meetaugust.ai), health ai used by millions of people. i ship cli tools and contribute upstream.
+i build the layer after the first model call: routing and fallbacks, evals, document pipelines, streaming, observability. ai engineer at [august](https://www.meetaugust.ai), health ai used by millions of people. i ship indie dev tools and contribute upstream.
 
 <img align="left" width="406" src="assets/slop.svg" alt="ai slop findings per 1,000 lines, 15 ai coding tools" />
 
