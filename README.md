@@ -12,6 +12,8 @@ field notes, every claim tested first: [31 ai-built repos scanned](https://dev.t
 
 i also make [blr daily](https://blrdaily.com/), one page of what's on in bengaluru, out every morning at 9
 
+[camber](https://www.yuvrajangadsingh.com/camber) is my open-source arc replacement: arc's sidebar, spaces and command bar on chromium, for mac, windows and linux. it imports your arc spaces, and arc stops opening on dec 22
+
 <br clear="left" />
 <br />
 
